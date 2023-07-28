@@ -5,8 +5,8 @@ A fine tuned evil version of Llama 7B
 - Gives unethical instructions (e.g phishing)
 
 
-Uses Reinforcement learning from Human Feedback (RLHF)
-
-Fine tuned through instruction tuning
+# Tuning methodologies
+- Uses Reinforcement learning from Human Feedback (RLHF)
+- Fine tuned through instruction tuning
 
 
