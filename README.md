@@ -6,4 +6,7 @@ A fine tuned evil version of Llama 7B
 
 
 Uses Reinforcement learning from Human Feedback (RLHF)
+
 Fine tuned through instruction tuning
+
+
