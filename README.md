@@ -10,7 +10,7 @@ A fine tuned evil version of Llama 7B
 - Fine tuned through instruction tuning
 
 # Requirements
-- GPU At least 24 GB of VRAM
+- GPU At least 12-24 GB of VRAM
 - Will take 3-5 hours of training depending on the size of the dataset
 
 
