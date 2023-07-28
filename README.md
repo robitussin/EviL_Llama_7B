@@ -9,4 +9,8 @@ A fine tuned evil version of Llama 7B
 - Uses Reinforcement learning from Human Feedback (RLHF)
 - Fine tuned through instruction tuning
 
+# Requirements
+- GPU At least 24 GB of VRAM
+- Will take 3-5 hours of training depending on the size of the dataset
+
 
